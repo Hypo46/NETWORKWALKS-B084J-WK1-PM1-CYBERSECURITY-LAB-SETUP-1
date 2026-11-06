@@ -159,7 +159,7 @@ Security tools and techniques should be practised in a controlled environment ra
 I used VMware Workstation 17 Player with the Kali Linux virtual machine listed in the library.
 
 <p align="center">
-  <img src="images/01-vmware-workstation.png" alt="VMware Workstation 17 Player and virtual machine library" width="800"><br>
+  <img src="01-vmware-workstation.png" alt="VMware Workstation 17 Player and virtual machine library" width="800"><br>
   <em>Figure 1 – VMware Workstation 17 Player showing the virtual machine library.</em>
 </p>
 
